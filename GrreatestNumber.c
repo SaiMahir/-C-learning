@@ -24,6 +24,6 @@ int main()
     else {
         printf("Greatest: %d\n", d);
     }
-
+ 
     return 0;
 }

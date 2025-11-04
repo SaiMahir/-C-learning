@@ -12,5 +12,5 @@ int main() {
         printf("%d is not divisible by 5.", a);
     }
 
-    return 0;
+    return 0; 
 }

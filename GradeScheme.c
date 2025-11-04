@@ -24,7 +24,7 @@ int main()
     }
     else 
     printf("A");
-    
+     
     return 0;
 }
 
