@@ -7,7 +7,7 @@ int multipliedSum(int a,int b)
         
         return sum;
 }
-
+ 
 int main()
 {   
     int x,y,sum;

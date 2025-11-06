@@ -6,7 +6,7 @@ int main()
     printf("enter the no.of marks obtained: ");
     scanf("%d", &a);
     
-    if (a<0 || a>100)
+    if (a<0 || a>100) 
     {
         printf("wrong entry");
     }

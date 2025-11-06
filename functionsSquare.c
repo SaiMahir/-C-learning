@@ -8,7 +8,7 @@ int square(int a)
         return sum;
 }
 
-int main()
+int main() 
 {   
     int x,sum;
     

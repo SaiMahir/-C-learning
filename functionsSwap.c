@@ -6,7 +6,7 @@ void swap(int a, int b )
     b = temp;
     printf("after the change %d and %d",a,b);
 }
-
+ 
 int main()
 {   
     int x, y;
