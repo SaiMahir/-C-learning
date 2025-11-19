@@ -7,6 +7,7 @@ int sum (int a[])
     return s;
 }
  
+
 int main()
 {
     int a[5],i;
