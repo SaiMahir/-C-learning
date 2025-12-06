@@ -21,7 +21,7 @@ int main()
         {
             max=arr[i];
         }
-    }
+    } 
 
     printf("The maximum value is %d",max);
 

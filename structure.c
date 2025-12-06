@@ -17,4 +17,4 @@ int main()
     scanf("%d%s%d",&s2.rollno,s2.name,&s2.marks);
     printf("rollno: %d\n name: %s\n marks: %d",s2.rollno,s2.name,s2.marks);
     return 0;
-}
+} 

@@ -6,4 +6,4 @@ int main()
     scanf("%s",str);
     printf("Your name is %s",str);
     return 0;
-} 
+}  

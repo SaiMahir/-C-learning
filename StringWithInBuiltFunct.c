@@ -12,4 +12,4 @@ int main()
     printf("string 2 is: %s",b);
 
     return 0;
-}
+} 

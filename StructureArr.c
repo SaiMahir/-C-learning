@@ -19,4 +19,4 @@ int main()
     printf("rollno: %d\n name: %s\n marks: %d\n",s[i].rollno,s[i].name,s[i].marks);
     }
     return 0;
-}
+} 

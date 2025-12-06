@@ -12,7 +12,7 @@ int main()
   	
   	for(i=0 ; str1[i] != '\0'; i++)
   	    l++;
-  	    
+  	     
   	for(i=0;str2[i] != '\0'; i++)
   	   {
   	         str1[l] = str2[i];

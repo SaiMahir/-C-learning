@@ -11,6 +11,6 @@ int main()
 
     strcat(a,b);
     printf("%s",a);
-
+ 
     return 0;
 }
